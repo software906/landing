@@ -1,0 +1,20 @@
+.containerbanner{
+    position: relative;   
+    height: 450px;    
+    
+}
+
+.container1{    
+    padding: 50px;
+    
+}
+
+.container1 h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;  
+    color: blanchedalmond;
+    text-shadow: 2px 2px 2px rgb(72, 164, 250);
+}
+.container1 h1{
+    font-size: 50px;
+}
+
